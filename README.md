@@ -132,6 +132,7 @@ For more information about CSIRTs Network Members and how to get in contact plea
 | :-----: | :----------: | :------: | :------ |
 | BE | CCB |  EN | [Vulnerability reporting to the CCB (15 February 2023)](https://ccb.belgium.be/en/vulnerability-reporting-ccb) |
 | BE | CCB |  FR | [Signalement des vulnérabilités au CCB (15 février 2023)](https://ccb.belgium.be/fr/signalement-des-vuln%C3%A9rabilit%C3%A9s-au-ccb) |
+| BE | CCB |  NL | [Bekendmaking van kwetsbaarheden aan het CCB (15 februari 2023)]([https://ccb.belgium.be/fr/signalement-des-vuln%C3%A9rabilit%C3%A9s-au-ccb](https://ccb.belgium.be/nl/bekendmaking-van-kwetsbaarheden-aan-het-ccb)) |
 | DE | CERT-Bund |  DE | [Leitlinie und Richtlinie für Sicherheitsforschende (Dezember 2022)](https://www.bsi.bund.de/DE/IT-Sicherheitsvorfall/IT-Schwachstellen/it-schwachstellen_node.html) |
 | DE | CERT-Bund |  EN | [BSI CVD guideline for security researchers (December 2022)](https://www.bsi.bund.de/EN/IT-Sicherheitsvorfall/IT-Schwachstellen/it-schwachstellen_node.html) |
 | EU | ENISA |  EN | <a href="https://www.enisa.europa.eu/news/enisa-news/coordinated-vulnerability-disclosure-policies-in-the-eu">Coordinated Vulnerability Disclosure policies in the EU</a> |
@@ -149,6 +150,7 @@ For more information about CSIRTs Network Members and how to get in contact plea
 | FR | CERT-FR |  FR | <a href="https://www.cert.ssi.gouv.fr/avis/">Avis de sécurité</a> |
 | DE | CERT-Bund |  DE | <a href="https://cert-bund.de/overview">CERT-Bund Warn- und Informationsdienste</a> |
 | NL | NCSC-NL |  NL | <a href="https://advisories.ncsc.nl/advisories">Overzicht gepubliceerde Advisories</a> |
+| BE | CERT.be |  EN | <a href="https://cert.be/en/advisories">Advisories</a> |
 
 ### Vulnerability Scanning 
 | Country | Organisation | Language | Material |
